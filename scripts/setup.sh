@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 WORKSPACE="/home/ubuntu"
-STABLE_DIFFUSION_WEBUI_VERSION="v1.9.4"
-DREAMBOOTH_TAG="1.1.0"
+STABLE_DIFFUSION_WEBUI_VERSION="v1.6.0"
+DREAMBOOTH_TAG="1.0.14"
 
 echo "Install dependencies"
 sudo apt update
